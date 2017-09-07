@@ -21,7 +21,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* All the folks ar rLab Reading Hackspace especially Toby
+* All the folks at [rLab](https://www.rlab.org.uk) Reading Hackspace especially Toby
 + The Smoothieboard and Smoothieware team
 
 
