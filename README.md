@@ -22,7 +22,8 @@ Licensed under CERN OHL v.1.2 or later http://ohwr.org/cernohl No warranty is pr
 
 ## Acknowledgments
 
-* All the folks ar rLab Reading Hackspace especially Toby
-+ The Smoothieboard and Smoothieware team
+
+* All the folks at [rLab](http://www.rlab.org.uk) Reading Hackspace especially Toby
++ The Smoothieboard creators and the [Smoothieware](http://smoothieware.org/) team
 
 
