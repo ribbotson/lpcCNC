@@ -6,7 +6,7 @@ This free open source derivative of the Smoothieboard is designed for CNC applic
 
 ## Content
 
-This is a hardware project with PCB design file in Eagle. A [3D printable case]( http://a360.co/2vPnznS) design in Fusion360 is also provided. Example configuration files for Smoothieware and grbl-lpc are also provided.
+This is a hardware project with PCB design file in Eagle. A 3D printable case ([Top]( http://a360.co/2vPnznS), [Bottom](http://a360.co/2j534xu)) design in Fusion360 is also provided. Example configuration files for Smoothieware and grbl-lpc are also provided.
 
 
 
