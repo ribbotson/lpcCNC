@@ -18,7 +18,7 @@ This is a hardware project with PCB design file in Eagle. A 3D printable case ([
 
 ## License
 
-Licensed under CERN OHL v.1.2 or later http://ohwr.org/cernohl No warranty is provided for this documentation implied or otherwise.
+Licensed under CERN OHL v.1.2 or later https://www.ohwr.org/documents/294 No warranty is provided for this documentation implied or otherwise.
 
 ## Acknowledgments
 
